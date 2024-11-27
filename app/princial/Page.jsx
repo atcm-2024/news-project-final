@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Article from '@/app/components/Article'; // Compon
 
-export default function page({data}) {
+export default function Page({data}) {
 
   const [open, setOpen] = useState(false);
   const [selectedArticle, setSelectedArticle] = useState(null);
