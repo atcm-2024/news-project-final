@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react';
-import Article from '@/app/components/article'; // Compon
+import Article from '@/app/components/Article'; // Compon
 
 export default function page({data}) {
 
