@@ -1,6 +1,6 @@
 'use client'
 import NavBar from "@/app/components/NavBar"
-import Principal from "@/app/princial/page"
+import Principal from "@/app/princial/Page"
 import Footer from "@/app/components/Footer"
 import useData from "@/app/customhooks/useData"
 import { useState } from "react"
